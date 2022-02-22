@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\vb2018\vb2018\bin\Debug\vb2018.exe.config
+C:\Users\Dewyd\Desktop\vb2018\vb2018\bin\Debug\vb2018.exe
+C:\Users\Dewyd\Desktop\vb2018\vb2018\bin\Debug\vb2018.pdb
+C:\Users\Dewyd\Desktop\vb2018\vb2018\obj\Debug\vb2018.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\vb2018\vb2018\obj\Debug\vb2018.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\vb2018\vb2018\obj\Debug\vb2018.exe
+C:\Users\Dewyd\Desktop\vb2018\vb2018\obj\Debug\vb2018.pdb
