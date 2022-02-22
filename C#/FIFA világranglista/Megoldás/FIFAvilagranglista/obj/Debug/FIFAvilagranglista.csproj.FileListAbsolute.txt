@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\FIFAvilagranglista.exe.config
+C:\Users\Dewyd\Desktop\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\FIFAvilagranglista.exe
+C:\Users\Dewyd\Desktop\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\FIFAvilagranglista.pdb
+C:\Users\Dewyd\Desktop\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.exe
+C:\Users\Dewyd\Desktop\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.pdb
