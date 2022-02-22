@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\Snooker\Snooker\bin\Debug\Snooker.exe.config
+C:\Users\Dewyd\Desktop\Snooker\Snooker\bin\Debug\Snooker.exe
+C:\Users\Dewyd\Desktop\Snooker\Snooker\bin\Debug\Snooker.pdb
+C:\Users\Dewyd\Desktop\Snooker\Snooker\obj\Debug\Snooker.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\Snooker\Snooker\obj\Debug\Snooker.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\Snooker\Snooker\obj\Debug\Snooker.exe
+C:\Users\Dewyd\Desktop\Snooker\Snooker\obj\Debug\Snooker.pdb
