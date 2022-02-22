@@ -1,2 +1,0 @@
-# Feladatok
-Érettségi / OKJ feladatok
