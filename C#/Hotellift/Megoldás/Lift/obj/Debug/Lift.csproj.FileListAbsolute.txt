@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\Lift\Lift\bin\Debug\Lift.exe.config
+C:\Users\Dewyd\Desktop\Lift\Lift\bin\Debug\Lift.exe
+C:\Users\Dewyd\Desktop\Lift\Lift\bin\Debug\Lift.pdb
+C:\Users\Dewyd\Desktop\Lift\Lift\obj\Debug\Lift.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\Lift\Lift\obj\Debug\Lift.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\Lift\Lift\obj\Debug\Lift.exe
+C:\Users\Dewyd\Desktop\Lift\Lift\obj\Debug\Lift.pdb
