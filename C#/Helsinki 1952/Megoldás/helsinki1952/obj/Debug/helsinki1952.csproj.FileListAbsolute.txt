@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe.config
+C:\Users\Dewyd\Desktop\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe
+C:\Users\Dewyd\Desktop\helsinki1952\helsinki1952\bin\Debug\helsinki1952.pdb
+C:\Users\Dewyd\Desktop\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\helsinki1952\helsinki1952\obj\Debug\helsinki1952.exe
+C:\Users\Dewyd\Desktop\helsinki1952\helsinki1952\obj\Debug\helsinki1952.pdb
