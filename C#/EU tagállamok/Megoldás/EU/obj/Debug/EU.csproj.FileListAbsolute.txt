@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\EU\EU\bin\Debug\EU.exe.config
+C:\Users\Dewyd\Desktop\EU\EU\bin\Debug\EU.exe
+C:\Users\Dewyd\Desktop\EU\EU\bin\Debug\EU.pdb
+C:\Users\Dewyd\Desktop\EU\EU\obj\Debug\EU.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\EU\EU\obj\Debug\EU.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\EU\EU\obj\Debug\EU.exe
+C:\Users\Dewyd\Desktop\EU\EU\obj\Debug\EU.pdb
