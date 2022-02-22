@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\egyszamjatek\egyszamjatek\bin\Debug\egyszamjatek.exe.config
+C:\Users\Dewyd\Desktop\egyszamjatek\egyszamjatek\bin\Debug\egyszamjatek.exe
+C:\Users\Dewyd\Desktop\egyszamjatek\egyszamjatek\bin\Debug\egyszamjatek.pdb
+C:\Users\Dewyd\Desktop\egyszamjatek\egyszamjatek\obj\Debug\egyszamjatek.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\egyszamjatek\egyszamjatek\obj\Debug\egyszamjatek.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\egyszamjatek\egyszamjatek\obj\Debug\egyszamjatek.exe
+C:\Users\Dewyd\Desktop\egyszamjatek\egyszamjatek\obj\Debug\egyszamjatek.pdb
