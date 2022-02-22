@@ -1,0 +1,7 @@
+C:\Users\Dewyd\Desktop\csudh\csudh\bin\Debug\csudh.exe.config
+C:\Users\Dewyd\Desktop\csudh\csudh\bin\Debug\csudh.exe
+C:\Users\Dewyd\Desktop\csudh\csudh\bin\Debug\csudh.pdb
+C:\Users\Dewyd\Desktop\csudh\csudh\obj\Debug\csudh.csproj.AssemblyReference.cache
+C:\Users\Dewyd\Desktop\csudh\csudh\obj\Debug\csudh.csproj.CoreCompileInputs.cache
+C:\Users\Dewyd\Desktop\csudh\csudh\obj\Debug\csudh.exe
+C:\Users\Dewyd\Desktop\csudh\csudh\obj\Debug\csudh.pdb
